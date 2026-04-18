@@ -1,6 +1,7 @@
 substitutions:
   #sensor_gpio_left: GPIO10
-  sensor_gpio_right: GPIO20
+  #sensor_gpio_right: GPIO20
+  sensor_gpio_right: GPIO12
   sensor_gpio_left: GPIO13
   
 
