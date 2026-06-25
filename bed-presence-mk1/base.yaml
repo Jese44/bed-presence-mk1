@@ -1,10 +1,10 @@
-substitutions:
+#substitutions:
   #sensor_gpio_left: GPIO10
   #sensor_gpio_right: GPIO20
   #sensor_gpio_right: GPIO14 #esp32
   #sensor_gpio_left: GPIO13 #esp32
-  sensor_gpio_right: GPIO10 #esp32C3
-  sensor_gpio_left: GPIO5 #esp32C3
+#  sensor_gpio_right: GPIO10 #esp32C3
+#  sensor_gpio_left: GPIO5 #esp32C3
   
 
 packages:
